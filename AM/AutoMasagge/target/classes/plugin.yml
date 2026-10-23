@@ -1,0 +1,9 @@
+name: AutoMasagge
+version: 1.0
+main: org.example1.autoMasagge.AutoMasagge
+api-version: 1.18
+commands:
+  am:
+    description: AutoMasagge command
+    usage: /am <add|list|delete|stats>
+    aliases: [automassage]
